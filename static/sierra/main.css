@@ -1,0 +1,79 @@
+.wall {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nlHGm-bnqkEuBVhDAqSozdW2arCSC8FOru0vnPN_hzs1sIjl7Q');
+}
+.tree {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzy1Pf7lkQkCzJ7J1GuxbVPZzyMRaK1Xkuw_bIyKLk3ZSPCk2zQ');
+}
+.monster {
+  background-image: url('http://www.fright-bytes.com/scary-halloween-animations/monsters/monster1b.gif');
+}
+
+.gold {
+  background-image: url('https://orig00.deviantart.net/9152/f/2015/187/2/b/apple_animation_logo_for_rainmeter_by_hekee-d8pte64.gif');
+  background-color: #18232f;
+  background-size: cover;
+}
+.diamond {
+  background-image: url('http://img71.laughinggif.com/pic/HTTPS9tZWRpYS5naXBoeS5jb20vbWVkaWEvSUtCcmdXdmdsRXVJZy9naXBoeS5naWYlog.gif');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+}
+.food {
+  background-image: url('http://moziru.com/images/drawn-dougnut-transparent-background-5.gif');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+}
+.mainTrasure {
+  background-image: url('https://www.chitalnya.ru/upload/208/96353343315422.gif');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+}
+.gnomeQuest {
+  background-image: url('http://3.bp.blogspot.com/-OgbmYzOUhnY/UYfrEjPnriI/AAAAAAAAAr8/lbOlb5AgBIc/s1600/AnimatedLeprechaunDancing.gif');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+}
+.catQuest {
+  background-image: url('http://www.gifmania.ru/Animated-Gifs-Walt-Disney/Animations-Disney-Movies/Images-Alice-in-Wonderland/Cheshire-Cat/Cheshire-Cat-86017.gif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #18232f;
+}
+/* .monster {
+  background-image: url('http://www.apyww.com/img-png/freddy-krueger-png-a-nightmare-on-elm-street-freddy-krueger-deluxe-adult-sweater-346.png');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+} */
+.hero-rarget {
+  background-image: url('http://worldartsme.com/images/batman-transparent-background-clipart-1.jpg');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+}
+.button {
+  min-width: 260px;
+}
+
+.enigma-key {
+  background-image: url('http://srorieltomsk.ru/upload/medialibrary/a54/8503418_5f8e8269.gif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #18232f;
+}
+.chest {
+  background-image: url('https://i.pinimg.com/736x/b4/c0/f4/b4c0f4c875b7186507479f4368f2276b.jpg');
+  background-repeat: no-repeat;
+  background-color: #18232f;
+  background-size: 100%;
+}
+.key {
+  background-image: url('http://srorieltomsk.ru/upload/medialibrary/a54/8503418_5f8e8269.gif') !important;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* // background-color: #18232f; */
+}
